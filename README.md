@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Fabián 👋
 
-<!--
-**ramjavii/ramjavii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer who enjoys building practical projects across **cybersecurity**, **backend**, and **frontend**—from security tooling and automation to clean, user-friendly interfaces.
 
-Here are some ideas to get you started:
+### Tech I use
+- **Security / tooling:** Nmap, OpenVAS, OWASP ZAP, Nuclei · Python · TypeScript/JavaScript · Docker  
+- **Backend:** Node.js (TS/JS) · Python · APIs  
+- **Frontend:** TypeScript/JavaScript · HTML · CSS  
+- **Mobile / native (project experience):** Dart (Flutter) · Swift · C++ / CMake
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **NestSecure:** On-prem vulnerability scanning system integrating Nmap, OpenVAS, ZAP, and Nuclei.
+- **Nightlife App:** Mobile app for exploring venues, booking events, and viewing offers.
+- **WebConstructor:** Website-building project focused on fast, simple static web pages (HTML/CSS).
+
+### Let’s connect
+- LinkedIn: https://www.linkedin.com/in/fabián-ramos-demestri-678b02322
